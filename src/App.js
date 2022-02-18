@@ -1,6 +1,5 @@
 import "./App.css";
 import React, { Component } from "react";
-
 class SearchBar extends Component {
   // props has all values which is received from the parent
   constructor(props) {
